@@ -1,0 +1,9 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@    Patiest Detail    @@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Id	Name	Test	Status
+----------------------------------------------------------
+12	Aman	TYT	Normal
+22	Rman	TNT	Normal
+12	Raj	TNT	Normal

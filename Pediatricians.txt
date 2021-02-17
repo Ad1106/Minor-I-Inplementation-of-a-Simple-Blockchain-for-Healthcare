@@ -1,0 +1,12 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@    Patiest Detail    @@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Id	Name	Test	Status
+----------------------------------------------------------
+
+
+10	amit	cvc	normal
+10      	raj    	cvc     	serious
+32	Raman	TYF	Serious
+
